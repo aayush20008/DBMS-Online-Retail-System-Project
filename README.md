@@ -6,4 +6,4 @@
 * React JS front-end
 * node backend
 
-## all data in attached pdf
+## All other details in attached pdf
